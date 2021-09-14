@@ -72,3 +72,15 @@ Models:
  
 Collection: [Insomnia_2021-09-14.txt](https://github.com/nicolepspires/transactionbank/files/7158981/Insomnia_2021-09-14.txt)
 (ao baixar, trocar para Json)
+
+Downloads importantes para o ambiente:
+- PHP 7.4
+- Composer
+- Xampp
+
+Comando úteis: 
+$ composer global require "laravel/installer"
+$ composer create-project laravel/laravel transaction-bank
+$ php artisan make:controller Api/ClientController
+$ php artisan migrate
+$ php artisan make:model Client -m
