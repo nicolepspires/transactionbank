@@ -80,7 +80,12 @@ Downloads importantes para o ambiente:
 
 Comando úteis: 
 $ composer global require "laravel/installer"
+
 $ composer create-project laravel/laravel transaction-bank
+
 $ php artisan make:controller Api/ClientController
+
 $ php artisan migrate
+
 $ php artisan make:model Client -m
+
