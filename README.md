@@ -1,7 +1,7 @@
 # transactionbank
 
 Este projeto representa transações financeiras.
-Seus reuquisitos são os seguintes:
+Seus requisitos são os seguintes:
 
 API REST /transaction-bank/
 
@@ -44,7 +44,9 @@ Exemplo de payload de request para realizar transferência:
 
   }
 
-Obs: o federal code pode receber o cpf ou o cnpj do cliente.
+Obs: 
+- O federalCode pode receber o cpf ou o cnpj do cliente.
+- O clientType pode receber common ou shopkeeper
 
 Atenção às regras de negócio:
 - Para realizar uma transação, o cliente precisar ter saldo maior que zero e suficiente para o valor que quer transferir.
