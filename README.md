@@ -79,6 +79,7 @@ Downloads importantes para o ambiente:
 - Xampp
 
 Comando úteis: 
+
 $ composer global require "laravel/installer"
 
 $ composer create-project laravel/laravel transaction-bank
