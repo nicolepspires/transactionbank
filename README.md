@@ -60,7 +60,7 @@ E finalmente, se sobreviveu a essas validações, hora de transferir:
 - Havendo sucesso, é só notificar o cliente e comemorar!
 - Como o serviço de notificação é um tanto instável, a ideia aqui é retentar em caso de erro.
 
-![fluxo_transaction (1)](https://user-images.githubusercontent.com/90669813/133610444-bb8766d7-81a1-4e5b-84a8-4b3726624f0f.jpg)
+![fluxo_transaction (3)](https://user-images.githubusercontent.com/90669813/133611806-93208404-5968-4231-a0c0-00fee84cab44.jpg)
 
 Tecnologias:
 - Linguagem PHP
