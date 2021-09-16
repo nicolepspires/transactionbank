@@ -5,7 +5,7 @@ Seus requisitos são os seguintes:
 
 API REST /transaction-bank/
 
-POST https://localhost/transaction-bank/public/api/deposit
+POST https://localhost/transaction-bank/public/api/transfer
 
 POST https://localhost/transaction-bank/public/api/clients
 
