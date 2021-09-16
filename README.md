@@ -71,7 +71,7 @@ Models:
 - Transaction
 - Client
  
-Collection: [Insomnia_2021-09-14.txt](https://github.com/nicolepspires/transactionbank/files/7158981/Insomnia_2021-09-14.txt)
+Collection: [CollectionTransactionBank.txt](https://github.com/nicolepspires/transactionbank/files/7180482/CollectionTransactionBank.txt)
 (ao baixar, trocar para Json)
 
 Downloads importantes para o ambiente:
